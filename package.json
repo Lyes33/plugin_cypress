@@ -1,0 +1,19 @@
+{
+  "name": "plugin_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.9.1",
+    "cypress-file-upload": "^5.0.6"
+  },
+  "dependencies": {
+    "cypress-downloadfile": "^1.2.0"
+  }
+}
